@@ -9,6 +9,7 @@ Domain: CYBER SECURITY & ETHICAL HACKING
 Duration:June to July 2024
 
 Overview of the project 
+
 This project aims to develop a password strength assessment tool using Python and the Tkinter library for the graphical user interface (GUI). Password security is a critical aspect of cybersecurity, and users often struggle to create strong passwords that are both memorable and secure. This tool will help users understand the strength of their passwords by analyzing factors such as length, complexity, and uniqueness, and providing actionable feedback to improve password security.
 
 Key Components
