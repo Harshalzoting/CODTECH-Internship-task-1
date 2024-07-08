@@ -24,8 +24,9 @@ Complexity Complexity refers to the inclusion of various character types in the 
 
 3.Numbers: Incorporating digits (0-9) makes the password more robust. 
 
-4.Special Characters: Special characters (e.g., !, @, #, $, etc.) significantly enhance password complexity. The tool will check for the presence of these different character types and score the password based on its complexity.
+4.Special Characters: Special characters (e.g., !, @, #, $, etc.) significantly enhance password complexity. 
 
+The tool will check for the presence of these different character types and score the password based on its complexity.
 Uniqueness Passwords should be unique and not easily guessable. Common passwords are a significant security risk as they are often the first targets of brute force attacks. The tool will compare the entered password against a list of common passwords and provide feedback if the password is found to be too common.
 
 **Tool Features** 
