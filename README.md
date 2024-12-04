@@ -1,12 +1,3 @@
-Name: HARSHAL ZOTING
-
-Company: CODTECCH IT SOLUTIONS
-
-ID:CT08DS2364
-
-Domain: CYBER SECURITY & ETHICAL HACKING
-
-Duration:June to July 2024
 
 **Overview of the project**
 
